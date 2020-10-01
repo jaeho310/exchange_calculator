@@ -8,30 +8,8 @@ namespace ExchangeCalculator.Model
 {
     class MainModel
     {
-        private string dollar;
-        public string Dollar
-        {
-            get
-            {
-                return dollar;
-            }
-            set
-            {
-                dollar = value;
-            }
-        }
+        public string dollar;
+        public string won;
 
-        private string won;
-        public string Won
-        {
-            get
-            {
-                return won;
-            }
-            set
-            {
-                won = value;
-            }
-        }
     }
 }

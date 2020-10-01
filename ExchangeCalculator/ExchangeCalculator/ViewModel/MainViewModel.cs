@@ -34,22 +34,22 @@ namespace ExchangeCalculator.ViewModel
         {
             get
             {
-                if(string.IsNullOrEmpty(myModel.Dollar))
+                if(string.IsNullOrEmpty(myModel.dollar))
                 {
                     Won = "0";
                 }
                 else
                 {
-                    int result = int.Parse(myModel.Dollar) * 1160;
+                    int result = int.Parse(myModel.dollar) * 1160;
                     Won = result.ToString();
                 }
-                return myModel.Dollar;
+                return myModel.dollar;
             }
             set
             {
-                if (myModel.Dollar != value)
+                if (myModel.dollar != value)
                 {
-                    myModel.Dollar = value;
+                    myModel.dollar = value;
                     OnPropertyChanged("Dollar");
                 }
             }
@@ -59,11 +59,11 @@ namespace ExchangeCalculator.ViewModel
         {
             get
             {
-                return MyModel.Won;
+                return MyModel.won;
             }
             set
             {
-                myModel.Won = value;
+                myModel.won = value;
                 OnPropertyChanged("Won");
             }
         }
