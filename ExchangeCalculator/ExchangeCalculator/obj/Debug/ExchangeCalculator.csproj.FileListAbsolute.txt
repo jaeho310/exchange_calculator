@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\bin\Debug\ExchangeCalculator.exe.config
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\bin\Debug\ExchangeCalculator.exe
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\bin\Debug\ExchangeCalculator.pdb
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\ExchangeCalculator.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\View\MainWindow.g.cs
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\ExchangeCalculator_MarkupCompile.cache
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\ExchangeCalculator_MarkupCompile.lref
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\View\MainWindow.baml
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\ExchangeCalculator.g.resources
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\ExchangeCalculator.Properties.Resources.resources
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\ExchangeCalculator.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\ExchangeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\ExchangeCalculator.exe
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\ExchangeCalculator.pdb
+C:\Users\admin\source\repos\ExchangeCalculator\ExchangeCalculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
